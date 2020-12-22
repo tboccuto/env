@@ -1,1 +1,1 @@
-export PS1='%(?.%F{green}.%F{green})% leveredd ::%~ %# %f'
+export PS1='%(?.%F{color}.%F{color})% username ::%~ %# %f'
