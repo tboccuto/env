@@ -1,2 +1,2 @@
-# env vi/tmux/zsh
+# vi/tmux/zsh
 
