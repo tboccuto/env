@@ -1,0 +1,2 @@
+# env
+tmux/vim/zsh
