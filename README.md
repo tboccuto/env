@@ -1,2 +1,3 @@
-# vi/tmux/zsh
+# Configuration for vi/tmux 
+
 
