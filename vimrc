@@ -7,7 +7,6 @@ set number
 set hlsearch
 set ruler
 highlight Comment ctermfg=blue
-set expandtab ts=4 sw=4 
 filetype plugin indent on
 " show existing tab with 4 spaces width
 set tabstop=4
