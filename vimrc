@@ -8,7 +8,6 @@ set hlsearch
 set ruler
 highlight Comment ctermfg=blue
 filetype plugin indent on
-" On pressing tab, insert 4 spaces
 set expandtab
 set belloff=all
 set completeopt+=menuone
