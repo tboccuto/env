@@ -17,3 +17,5 @@ set belloff=all
 set completeopt+=menuone
 inoremap jj <ESC>
 inoremap cv <copy>
+" Golang: reasonable defaults from webinstall.dev/vim-go
+source ~/.vim/plugins/go.vim
