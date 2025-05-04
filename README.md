@@ -1,3 +1,3 @@
-# Configuration for vi & tmux 
+# Configuration for vi & tmux as well as some other nice to haves
 
 
